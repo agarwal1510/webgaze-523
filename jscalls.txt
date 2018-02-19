@@ -1,0 +1,202 @@
+aman@aman-Q325UA:~$ node vanillaRecord.js 1920 1080 false 15000
+https://www.bloomberg.com
+
+
+JS calls- 65 Total calls- 249
+https://www.theonion.com
+
+
+JS calls- 56 Total calls- 144
+https://www.blackboard.com
+
+
+JS calls- 19 Total calls- 68
+https://www.nytimes.com
+
+
+JS calls- 97 Total calls- 304
+https://www.whitehouse.gov
+
+
+JS calls- 15 Total calls- 57
+https://www.youtube.com
+
+
+JS calls- 13 Total calls- 90
+https://www.opera.com
+
+
+JS calls- 17 Total calls- 45
+https://www.wunderlist.com
+
+
+JS calls- 6 Total calls- 34
+https://www.citi.com
+
+
+JS calls- 64 Total calls- 319
+https://www.stubhub.com
+
+
+JS calls- 70 Total calls- 265
+https://www.ebay.com
+
+
+JS calls- 12 Total calls- 111
+https://www.playstation.com
+
+
+JS calls- 74 Total calls- 228
+https://www.etsy.com
+
+
+JS calls- 14 Total calls- 87
+https://www.retailmenot.com
+
+
+JS calls- 18 Total calls- 84
+https://www.overstock.com
+
+
+JS calls- 45 Total calls- 193
+https://www.cartoonnetwork.com
+
+
+JS calls- 30 Total calls- 98
+https://www.ranker.com
+
+
+JS calls- 38 Total calls- 119
+https://www.bleacherreport.com
+
+
+JS calls- 125 Total calls- 427
+https://www.acm.org
+
+
+JS calls- 40 Total calls- 176
+https://www.cnet.com
+
+
+JS calls- 57 Total calls- 155
+https://www.squareup.com
+
+
+JS calls- 60 Total calls- 148
+https://www.vimeo.com
+
+
+JS calls- 28 Total calls- 135
+https://www.macys.com
+
+
+JS calls- 99 Total calls- 227
+https://www.amazon.com
+
+
+JS calls- 33 Total calls- 284
+https://www.lifehacker.com
+
+
+JS calls- 78 Total calls- 219
+https://www.imgur.com
+
+
+JS calls- 19 Total calls- 116
+https://www.alexa.com
+
+
+JS calls- 108 Total calls- 156
+https://www.adf.ly
+
+
+JS calls- 22 Total calls- 71
+https://www.att.com
+
+
+JS calls- 81 Total calls- 161
+https://www.rantsports.com
+
+
+JS calls- 18 Total calls- 80
+https://www.kotaku.com
+
+
+JS calls- 75 Total calls- 176
+https://www.heart.org
+
+
+JS calls- 58 Total calls- 205
+https://www.theatlantic.com
+
+
+JS calls- 47 Total calls- 138
+https://www.diply.com
+
+
+JS calls- 40 Total calls- 105
+https://www.history.com
+
+
+JS calls- 78 Total calls- 194
+https://www.scribd.com
+
+
+JS calls- 29 Total calls- 131
+https://www.kongregate.com
+
+
+JS calls- 28 Total calls- 183
+https://www.carfax.com
+
+
+JS calls- 10 Total calls- 34
+https://www.sitepoint.com
+
+
+JS calls- 23 Total calls- 91
+https://www.sfgate.com
+
+
+JS calls- 87 Total calls- 262
+https://www.marriott.com
+
+
+JS calls- 81 Total calls- 154
+https://www.costco.com
+
+
+JS calls- 26 Total calls- 91
+https://www.aarp.org
+
+
+JS calls- 115 Total calls- 225
+https://www.weightwatchers.com
+
+
+JS calls- 69 Total calls- 202
+https://www.ted.com
+
+
+JS calls- 9 Total calls- 91
+https://www.mathworks.com
+
+
+JS calls- 37 Total calls- 78
+https://www.mozilla.org
+
+
+JS calls- 8 Total calls- 35
+https://www.slideshare.net
+
+
+JS calls- 7 Total calls- 31
+https://www.samsung.com
+
+
+JS calls- 61 Total calls- 103
+https://www.wiley.com
+
+
+JS calls- 77 Total calls- 111
+Wrapping up!

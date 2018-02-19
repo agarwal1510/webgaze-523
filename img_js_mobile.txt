@@ -1,0 +1,207 @@
+aman@aman-Q325UA:~$ node vanillaRecord.js 1920 1080 true 20000
+Emulating cellular4g conditions!
+https://www.bloomberg.com
+
+
+JS calls- 59Image calls- 46 Total calls- 382
+https://www.theonion.com
+
+
+JS calls- 48Image calls- 14 Total calls- 216
+https://www.blackboard.com
+
+
+JS calls- 18Image calls- 12 Total calls- 75
+https://www.nytimes.com
+
+
+JS calls- 39Image calls- 52 Total calls- 172
+https://www.whitehouse.gov
+
+
+JS calls- 8Image calls- 19 Total calls- 52
+https://www.youtube.com
+
+
+JS calls- 7Image calls- 31 Total calls- 55
+https://www.opera.com
+
+
+JS calls- 11Image calls- 6 Total calls- 45
+https://www.wunderlist.com
+
+
+JS calls- 5Image calls- 13 Total calls- 32
+https://www.citi.com
+
+
+JS calls- 46Image calls- 16 Total calls- 109
+https://www.stubhub.com
+
+
+JS calls- 54Image calls- 35 Total calls- 156
+https://www.ebay.com
+
+
+JS calls- 0Image calls- 1 Total calls- 6
+https://www.playstation.com
+
+
+JS calls- 0Image calls- 0 Total calls- 5
+https://www.etsy.com
+
+
+JS calls- 13Image calls- 28 Total calls- 79
+https://www.retailmenot.com
+
+
+JS calls- 16Image calls- 39 Total calls- 102
+https://www.overstock.com
+
+
+JS calls- 32Image calls- 23 Total calls- 143
+https://www.cartoonnetwork.com
+
+
+JS calls- 25Image calls- 44 Total calls- 94
+https://www.ranker.com
+
+
+JS calls- 35Image calls- 4 Total calls- 162
+https://www.bleacherreport.com
+
+
+JS calls- 89Image calls- 169 Total calls- 462
+https://www.acm.org
+
+
+JS calls- 29Image calls- 60 Total calls- 198
+https://www.cnet.com
+
+
+JS calls- 115Image calls- 44 Total calls- 453
+https://www.squareup.com
+
+
+JS calls- 47Image calls- 12 Total calls- 152
+https://www.vimeo.com
+
+
+JS calls- 28Image calls- 5 Total calls- 86
+https://www.macys.com
+
+
+JS calls- 76Image calls- 28 Total calls- 213
+https://www.amazon.com
+
+
+JS calls- 17Image calls- 51 Total calls- 123
+https://www.lifehacker.com
+
+
+JS calls- 146Image calls- 13 Total calls- 315
+https://www.imgur.com
+
+
+JS calls- 12Image calls- 18 Total calls- 91
+https://www.alexa.com
+
+
+JS calls- 107Image calls- 24 Total calls- 159
+https://www.adf.ly
+
+
+JS calls- 26Image calls- 42 Total calls- 87
+https://www.att.com
+
+
+JS calls- 61Image calls- 38 Total calls- 193
+https://www.rantsports.com
+
+
+JS calls- 16Image calls- 36 Total calls- 80
+https://www.kotaku.com
+
+
+JS calls- 146Image calls- 13 Total calls- 298
+https://www.heart.org
+
+
+JS calls- 34Image calls- 44 Total calls- 158
+https://www.theatlantic.com
+
+
+JS calls- 38Image calls- 52 Total calls- 153
+https://www.diply.com
+
+
+JS calls- 40Image calls- 35 Total calls- 126
+https://www.history.com
+
+
+JS calls- 69Image calls- 23 Total calls- 208
+https://www.scribd.com
+
+
+JS calls- 19Image calls- 23 Total calls- 104
+https://www.kongregate.com
+
+
+JS calls- 3Image calls- 30 Total calls- 43
+https://www.carfax.com
+
+
+JS calls- 10Image calls- 6 Total calls- 38
+https://www.sitepoint.com
+
+
+JS calls- 93Image calls- 50 Total calls- 412
+https://www.marriott.com
+
+
+JS calls- 40Image calls- 51 Total calls- 170
+https://www.costco.com
+
+
+JS calls- 22Image calls- 37 Total calls- 95
+https://www.aarp.org
+
+
+JS calls- 136Image calls- 24 Total calls- 405
+https://www.weightwatchers.com
+
+
+JS calls- 35Image calls- 22 Total calls- 138
+https://www.ted.com
+
+
+JS calls- 14Image calls- 68 Total calls- 107
+https://www.mathworks.com
+
+
+JS calls- 23Image calls- 20 Total calls- 80
+https://www.sfgate.com
+
+
+JS calls- 49Image calls- 105 Total calls- 275
+https://www.mozilla.org
+
+
+JS calls- 0Image calls- 1 Total calls- 9
+https://www.slideshare.net
+
+
+JS calls- 6Image calls- 11 Total calls- 33
+https://www.samsung.com
+
+
+JS calls- 0Image calls- 0 Total calls- 5
+https://www.wiley.com
+
+
+JS calls- 0Image calls- 0 Total calls- 5
+https://www.
+
+
+JS calls- 0Image calls- 0 Total calls- 5
+Wrapping up!
