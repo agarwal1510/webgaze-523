@@ -14,7 +14,7 @@ citi.com,14641.5,Business,46,13,104
 cnet.com,8415.5,Computer,114,41,439
 costco.com,22270,Shopping,22,37,93
 diply.com,15231.5,Computer,40,35,123
-ebay.com,6331.5,Shopping,12,,111
+ebay.com,6331.5,Shopping,14,16,178
 etsy.com,14987,Shopping,13,34,85
 heart.org,26547.5,Health,33,44,152
 history.com,8557,Kids and Teens,69,23,212
@@ -25,15 +25,15 @@ lifehacker.com,12474.5,Home,128,13,248
 macys.com,25190,Shopping,67,28,201
 marriott.com,20742.5,Recreational,40,51,170
 mathworks.com,11169,Science,24,20,82
-mozilla.org,9381.5,Computer,8,,35
+mozilla.org,9381.5,Computer,8,17,36
 nytimes.com,17145,News,41,54,204
 opera.com,5871.5,Computer,11,6,45
 overstock.com,6961.5,Shopping,32,23,143
-playstation.com,27840.5,Games,74,,228
+playstation.com,27840.5,Games,48,19,188
 ranker.com,8953.5,News,35,4,162
 rantsports.com,11691,Sports,16,36,80
 retailmenot.com,9104.5,Shopping,16,39,101
-samsung.com,12877.5,Business,61,,103
+samsung.com,12877.5,Business,50,6,183
 scribd.com,11988.5,Business,19,23,104
 sfgate.com,28567.5,News,48,102,277
 sitepoint.com,10515,Reference,96,47,411
@@ -46,6 +46,6 @@ theonion.com,15431.5,Shopping,51,14,226
 vimeo.com,10495.5,Computer,26,5,83
 weightwatchers.com,47702.5,Health,34,31,147
 whitehouse.gov,8947.5,Society,8,20,52
-wiley.com,27364,Business,77,,111
+wiley.com,27364,Business,70,16,109
 wunderlist.com,8882.5,Home,5,13,32
 youtube.com,13097.5,Computer,7,21,44

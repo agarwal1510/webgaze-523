@@ -22,7 +22,7 @@ const proc = require('process');
 const path = require('path');
 
 //List of sites to load
-var siteFile = '/home/aman/mobile_sites_multi.txt';
+var siteFile = '/home/aman/523/mobile_sites_multi_missing.txt';
 
 //Arguments
 var pageLoadWait = proc.argv[5];
@@ -162,7 +162,7 @@ CDP(function(client){
       });
     }).then(function(){
       return new Promise(function(resolve, reject){
-        Network.setUserAgentOverride({userAgent:"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36"})
+        Network.setUserAgentOverride({userAgent:"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.85 Mobile Safari/537.36"})
         .then(function(){
           resolve();
         });
