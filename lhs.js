@@ -23,7 +23,7 @@ const path = require('path');
 const cmd = require('node-cmd');
 const csv = require('fast-csv');
 
- 
+
 Promise = require('bluebird');
 //List of sites to load
 var siteFile = 'C:\\Users\\agarw\\Documents\\webgaze-523\\list.txt';
@@ -54,33 +54,27 @@ const getAsync = Promise.promisify(cmd.get, { multiArgs: true, context: cmd })
 
 const createCsvWriter = require('csv-writer').createArrayCsvWriter;
 const csvWriter = createCsvWriter({
-    header: ['sitename', 'first-meaningful-paint','first-interactive'],
-    path: 'lighthouse.csv',
-    append: true
+  header: ['sitename', 'first-meaningful-paint','first-interactive'],
+  path: 'lighthouse.csv',
+  append: true
 });
 
 
 function pageNav(next_url, name, count, len){
 
-getAsync('lighthouse ' + next_url + ' --chrome-flags="--window-size=360,640 --incognito --ignore-certificate-errors --host-resolver-rules=\\"MAP *:80 127.0.0.1:8080,MAP *:443 127.0.0.1:8081,EXCLUDE localhost\\"" --output-path=./reports/'+name+'.json --output json').then(data => {
-  var file = require('./reports/'+name)
-              console.log(file.audits['first-meaningful-paint'].rawValue);
-              console.log(file.audits['first-interactive'].rawValue);
+  getAsync('lighthouse ' + next_url + ' --chrome-flags="--window-size=360,640 --incognito --ignore-certificate-errors --host-resolver-rules=\\"MAP *:80 127.0.0.1:8080,MAP *:443 127.0.0.1:8081,EXCLUDE localhost\\"" --output-path=./reports/'+name+'.json --output json').then(data => {
+    var file = require('./reports/'+name)
+    console.log(file.audits['first-meaningful-paint'].rawValue);
+    console.log(file.audits['first-interactive'].rawValue);
 
-              const records = [[name, file.audits['first-meaningful-paint'].rawValue, file.audits['first-interactive'].rawValue]];
-              csvWriter.writeRecords(records).then(() => {
-                console.log('written');
-              });
+    const records = [[name, file.audits['first-meaningful-paint'].rawValue, file.audits['first-interactive'].rawValue]];
+    csvWriter.writeRecords(records).then(() => {
+      console.log('written');
+    });
 
-              // var ws = fs.createWriteStream('lighthouse.csv', {flags: 'a'});
-              // csv.write([
-              //     [name, file.audits['first-meaningful-paint'].rawValue, file.audits['first-interactive'].rawValue],
-              //     ['\r\n']
-              //   ]).pipe(ws);
-  
-}).catch(err => {
-  console.log('cmd err', err)
-})
+  }).catch(err => {
+    console.log('cmd err', err)
+  })
 
 
   // return new Promise(function(resolve, reject){
@@ -96,7 +90,7 @@ getAsync('lighthouse ' + next_url + ' --chrome-flags="--window-size=360,640 --in
   //       //fs.unlinkSync('./report.json');
   //     }
   //     );
-     
+
   //   }).then(function(){
   //       resolve("");
   //   });
